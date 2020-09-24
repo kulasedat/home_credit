@@ -1,4 +1,4 @@
-# production_ready_home_credit_default_risk_model
+# production_level_home_credit_default_risk_model
 ## Kaggle kurulum:
 1. pip install kaggle
 2. https://www.kaggle.com/<username>/account adresinden Create API'ye tıkla.
