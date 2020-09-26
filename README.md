@@ -11,5 +11,3 @@
 3. üst menüden repository bölümüne gir
 4. repo setting
 5. ignored files
-
-
